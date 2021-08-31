@@ -1,5 +1,5 @@
-# SIAE
-implement of SIAE<br>
+# CrowdSeg
+implement of CrowdSeg<br>
 run <br>
 
 python aggregation.py <br>
